@@ -1,7 +1,8 @@
 
 1. Factorial and Sum of Digits
 
-`import java.util.Scanner;
+
+import java.util.Scanner;
 
 public class FactorialSum {
     public static void main(String[] args) {
@@ -31,7 +32,10 @@ public class FactorialSum {
         return sum;
     }
 }
-`
+
+
+
+
 2. Prime Numbers in an Array
 
 import java.util.Scanner;
